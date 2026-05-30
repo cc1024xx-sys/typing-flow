@@ -35,7 +35,7 @@ export function MagicInput({
           }
         }}
         rows={3}
-        placeholder="今天有什么 Little Win？#待办 #灵感 #复盘 #笔记 ..."
+        placeholder="随便写点啥，#待办 #灵感 #复盘 #笔记..."
         className="w-full resize-none border-0 bg-transparent text-base leading-relaxed text-stone-800 placeholder:text-stone-400 focus:outline-none sm:text-lg"
       />
       <div className="mt-2 flex items-center justify-between text-xs text-stone-400">
